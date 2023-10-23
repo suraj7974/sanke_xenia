@@ -1,0 +1,28 @@
+#gamecontainer{
+    text-align: center;
+}
+
+#gameboard{
+    border: 3px solid;
+}
+
+#score{
+    font-family: "permanent marker",cursive;
+    font-size: 100px;
+}
+
+body{
+    margin-top: 250px;
+}
+
+#btn{
+    font-family: "permanent marker",cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+
